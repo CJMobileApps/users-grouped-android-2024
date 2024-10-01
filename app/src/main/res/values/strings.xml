@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">usersgroupedandroid</string>
+    <string name="app_name">Users Grouped</string>
+    <string name="back_description">Back</string>
+    <string name="some_error_occurred">Some Error Occurred</string>
+    <string name="unable_to_get_users">Unable To Get Users</string>
+    <string name="users_not_found">Users not found</string>
 </resources>
